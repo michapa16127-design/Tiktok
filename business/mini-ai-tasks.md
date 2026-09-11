@@ -47,6 +47,16 @@ vergütet). Es ist reale bezahlte Arbeit, kein passives Einkommen und kein
 3. Keine Vorabkosten zahlen — seriöse Plattformen verlangen keine Gebühr
    für den Zugang zu Aufgaben.
 
+**Konkret umsetzbar in diesem Repo:**
+- [`platforms.md`](platforms.md) — Plattform-Vergleich mit Einstiegshürde
+  und Bezahlungsrahmen
+- [`getting-started.md`](getting-started.md) — 30-Tage-Plan von Anmeldung
+  bis Auswertung
+- [`germany-gewerbe-steuern.md`](germany-gewerbe-steuern.md) — Gewerbe/
+  Steuer-Einordnung für Deutschland
+- [`earnings_tracker/`](earnings_tracker/) — CLI-Tool, das deinen echten
+  effektiven €/h je Plattform berechnet, statt der Video-Zahl zu vertrauen
+
 ## Falls du stattdessen das Content-Format für dein eigenes Business willst
 
 Das ist der Teil, der sich sauber systematisieren lässt (siehe

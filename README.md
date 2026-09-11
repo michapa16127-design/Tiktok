@@ -5,14 +5,22 @@ Analyse und Nachbau des Referenzvideos (Creator `@stealth.strategy_`, Hook
 
 Zwei Teile:
 
-- **[`viral_caption_tool/`](viral_caption_tool/)** — das eigentliche,
-  wiederverwendbare Produktionswerkzeug: erzeugt aus jedem
-  Talking-Head-Video + Skript denselben visuellen Stil wie im Referenzvideo
-  (Hook-Banner oben, fette Wort-für-Wort-Captions, Handle-Wasserzeichen).
-- **[`business/mini-ai-tasks.md`](business/mini-ai-tasks.md)** — ehrliche
-  Einordnung des im Video beworbenen Geschäftsmodells ("Mini-AI-Aufgaben")
-  plus der dahinterliegenden Content-Formel, falls du das Format für ein
-  eigenes, reales Angebot nutzen willst.
+- **[`business/`](business/)** — das reale Geschäftsmodell aus dem Video
+  ("Mini-AI-Aufgaben" = bezahlte KI-Trainingsdaten-Microtasks) zum
+  Selbermachen: Plattform-Vergleich, 30-Tage-Einstiegsplan,
+  Gewerbe/Steuer-Einordnung für Deutschland, und ein Tracking-Tool für
+  deinen echten effektiven Stundenlohn.
+  - [`mini-ai-tasks.md`](business/mini-ai-tasks.md) — Einstiegspunkt/Übersicht
+  - [`platforms.md`](business/platforms.md) — welche Plattform lohnt sich
+  - [`getting-started.md`](business/getting-started.md) — Schritt-für-Schritt
+  - [`germany-gewerbe-steuern.md`](business/germany-gewerbe-steuern.md)
+  - [`earnings_tracker/`](business/earnings_tracker/) — CLI-Tool für dein
+    €/h-Tracking über alle Plattformen hinweg
+- **[`viral_caption_tool/`](viral_caption_tool/)** — das
+  Content-Produktionswerkzeug: erzeugt aus jedem Talking-Head-Video +
+  Skript denselben visuellen Stil wie im Referenzvideo (Hook-Banner oben,
+  fette Wort-für-Wort-Captions, Handle-Wasserzeichen), falls du deine
+  Erfahrungen damit auch als Content dokumentieren willst.
 
 Schnellstart:
 
