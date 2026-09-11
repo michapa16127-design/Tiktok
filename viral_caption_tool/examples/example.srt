@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,200
+Ich habe meinen Job gekündigt
+
+2
+00:00:02,200 --> 00:00:04,600
+wegen Mini-AI Aufgaben
+
+3
+00:00:04,600 --> 00:00:07,000
+und verdiene jetzt jeden Tag Geld
+
+4
+00:00:07,000 --> 00:00:09,200
+komplett automatisiert nebenbei
