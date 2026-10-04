@@ -22,3 +22,9 @@
 7. **YouTube Shorts:** dieselben Reels als Shorts, Titel als Suchbegriff („Angst vor KI im Job überwinden“) – Suchtraffic hält länger als TikTok-Feed.
 8. **Messen (14 Tage):** Ziel 1.000+ Views im Median, 2 % Profilbesuche, 10 Link-Klicks, 3 Anmeldungen. Danach nur das wiederholen, was Watchtime > 50 % hat.
 9. **Rechtlich:** Keine Heil-/Diagnoseaussagen („Herz rast“ → Arzt-Hinweis einblenden).
+
+## YouTube-Kanal (Stand 04.10.2026, via vidIQ)
+- Kanal „Michael Paul NovaAxis": 9 Abos, 146 Views, 2 Videos (beide 2021, Qi Gong, 66 und 80 Views), keine Shorts.
+- Beschreibung nennt: Autor, Med. Qi Gong Trainer, Osteopath, Fitness Trainer, Fachpraktiker für Wellness/Gesundheit/Prävention → starkes Vertrauenssignal, aber bisher ohne Bezug zu „Angst → Vertrauen“.
+- Maßnahmen: Kanalname/Banner/Beschreibung auf Angst + Körper (Qi Gong/Atmung) ausrichten; Link novaaxis.org in die erste Zeile; Reels als Shorts mit Suchtitel posten; 1 Langvideo/Monat („Qi Gong gegen Angst: 10-Min-Übung“).
+- Shorts-Titel-Ideen: „Angst im Körper lösen – 60 Sek. Qi Gong“ · „Herzrasen durch Stress? Diese Übung beruhigt“ · „Angst vor KI im Job: 3 Schritte“ · „Atemübung gegen Angst (Osteopath erklärt)“
