@@ -28,3 +28,23 @@
 - Beschreibung nennt: Autor, Med. Qi Gong Trainer, Osteopath, Fitness Trainer, Fachpraktiker für Wellness/Gesundheit/Prävention → starkes Vertrauenssignal, aber bisher ohne Bezug zu „Angst → Vertrauen“.
 - Maßnahmen: Kanalname/Banner/Beschreibung auf Angst + Körper (Qi Gong/Atmung) ausrichten; Link novaaxis.org in die erste Zeile; Reels als Shorts mit Suchtitel posten; 1 Langvideo/Monat („Qi Gong gegen Angst: 10-Min-Übung“).
 - Shorts-Titel-Ideen: „Angst im Körper lösen – 60 Sek. Qi Gong“ · „Herzrasen durch Stress? Diese Übung beruhigt“ · „Angst vor KI im Job: 3 Schritte“ · „Atemübung gegen Angst (Osteopath erklärt)“
+
+## Erklärvideo (6:00) – Analyse (04.10.2026)
+Angebot (aus dem Video): kostenloser 30-Fragen-Test (max. 10 Min., nur Vorname + E-Mail) → 7-Tage-Programm, einmalig 9,99 €, lebenslanger Zugang, Online-Tagebuch im Browser. Geplant: Hypnose, Meditationsmusik.
+
+Stärken: sehr verständlich, authentisch, klares Angebot, keine Heilversprechen, gut lesbare Untertitel.
+Schwächen:
+- Hook schwach („Hallo ihr Lieben“), Thema startet erst bei ~0:45
+- novaaxis.org wird nie ausgesprochen
+- Totale aus großer Distanz, Letterbox-Balken, Mimik nicht erkennbar; Ton dumpf/windanfällig
+- Untertitelfehler („Nova exes“), Datenschutz-Teil (2:35–2:50) und App-Aufzählung (4:05–4:30) bremsen
+- Qi-Gong-/Osteopathie-Qualifikation kommt nicht vor (stärkstes Vertrauenssignal)
+
+Clips für TikTok/Shorts (Reihenfolge der Veröffentlichung):
+1. 0:54–1:40 Geschichte (Angst vor KI, Job, Krieg) – Hook: „Ich hatte Angst vor KI, Jobverlust und Krieg – daraus wurde ein Programm.“
+2. 2:27–3:05 Gratis-Test – Hook: „30 Fragen. 10 Minuten. Kostenlos.“
+3. 5:04–5:35 Preis – Hook: „Nicht 499 €. Nicht 199 €. Nur 9,99 € – einmalig.“
+Jeder Clip: „novaaxis.org“ sprechen + einblenden, Gesicht nah, 9:16.
+
+YouTube: Langvideo ab „Wer steckt hinter NovaAxis?“ (~0:45) starten, Kapitel setzen, Link in Beschreibung + angepinnter Kommentar, Thumbnail mit Gesicht + „Angst → Vertrauen“.
+Rechtlich: Der 30-Fragen-Test erfasst sensible Angaben (Gesundheitsbezug) → Datenschutzerklärung + ausdrückliche Einwilligung auf novaaxis.org prüfen.
