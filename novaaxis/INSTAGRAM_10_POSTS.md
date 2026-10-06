@@ -36,9 +36,9 @@ Rechenbeispiel (Annahmen, keine Messwerte): 10.000 Views → 1 % klicken (100) �
 
 **Phase 3 – Beweise + sanfter CTA**
 7. **Reel (aus 2:27–3:05):** „30 Fragen. 10 Minuten. Kostenlos.“ → Gratis-Test erklärt, Datenschutz in 1 Satz. CTA: „Schreib TEST, ich schicke dir den Link.“
-8. **Karussell:** „So sieht dein Angst-Profil aus“ → Beispiel-Auswertung (nachgebaut, als Beispiel gekennzeichnet; keine erfundenen Erfahrungsberichte). CTA: TEST.
+8. **Karussell:** „So läuft der kostenlose Test ab“ (4 Schritte: 30 Fragen · nur Vorname + E-Mail · Antworten privat · Auswertung). CTA: TEST.
 9. **Reel (aus 5:04–5:35):** „Nicht 499 €. Nicht 199 €. 9,99 € – einmalig.“ + was in den 7 Tagen passiert. CTA: Link in Bio.
-10. **Reel/Karussell:** „7 Tage – das passiert an jedem Tag“ + echtes Feedback, sobald vorhanden (mit Erlaubnis). CTA: TEST.
+10. **Reel:** „7 Tage – eine neue Perspektive“ (tägliche einfache Übung, Online-Tagebuch, 9,99 € einmalig). Echtes Feedback ergänzen, sobald vorhanden (mit Erlaubnis). CTA: TEST.
 
 ## 3 Regeln
 1. Retention schlägt Perfektion – lieber 25 s dicht als 60 s zäh.
@@ -56,3 +56,5 @@ Rechenbeispiel (Annahmen, keine Messwerte): 10.000 Views → 1 % klicken (100) �
 
 ## Rechtliches
 Keine Heil- oder Diagnoseaussagen. Arzt-Hinweis bei körperlichen Symptomen. Test erfasst sensible Angaben → Datenschutzerklärung + Einwilligung auf novaaxis.org prüfen. Keine erfundenen Erfahrungsberichte oder Zahlen.
+
+> Alle 10 Posts sind ausgeschrieben: siehe `instagram/README.md` und `instagram/posts/`.
