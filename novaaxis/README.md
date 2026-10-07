@@ -1,4 +1,4 @@
-# NovaAxis – Reel „Angst wandeln in Vertrauen" (35 Sek.)
+# NovaAxis – Reel „Angst wandeln in Vertrauen" (21 Sek.)
 
 **Hook-Banner (oben):** `Angst ist nicht dein Feind – du liest sie nur falsch`
 **Handle:** `@novaaxis` (anpassen)
@@ -6,15 +6,15 @@
 ## Ablauf / Shot-Liste
 | Zeit | Bild | Text/Ton |
 |---|---|---|
-| 0–2 s | Close-up, direkter Blick, harter Schnitt-Start | „Angst ist kein Feind." (Pattern-Interrupt, keine Begrüßung) |
-| 2–9 s | Talking Head, leichte Zooms bei jedem Satz | These: Angst = Signal |
-| 9–21 s | 3 Einblendungen „1 Benenne · 2 Frag · 3 Handle" | Die 3 Schritte, je ~3 s |
-| 21–29 s | Ruhigerer Schnitt, evtl. Sonnenaufgang/Weg-B-Roll | Emotionaler Kern: Vertrauen entsteht durch Handeln |
-| 29–35 s | Logo/Name NovaAxis, ruhiger Hintergrund | CTA: Speichern + Folgen |
+| 0–6 s | Close-up, direkter Blick, harter Schnitt-Start | „Angst ist kein Feind. Sie ist ein Signal, das nur falsch gelesen wird." |
+| 6–14 s | Einblendungen „Benenne · Frag · Kleiner Schritt" | Die 3 Schritte, gesprochen als ein Atemzug |
+| 14–16,5 s | Ruhiger Schnitt | „Jeder Schritt baut Vertrauen auf." |
+| 16,5–21 s | **URL groß: novaaxis.org + „Link in der Bio"** | CTA: „Kostenloser Test: Link in meiner Bio." |
 
 Musik: ruhig-treibend, Lo-Fi/Ambient, Lautstärke ~15 %. Aufnahme: Tageslicht, Hochformat 9:16.
 
 ## Caption
+👉 Gratis-Test: novaaxis.org (Link in der Bio)
 Angst ist kein Stoppschild – sie ist ein Hinweis. 🌱
 Benenne sie. Frag sie, was sie schützen will. Geh einen kleinen Schritt.
 So wird aus Angst Schritt für Schritt Vertrauen.

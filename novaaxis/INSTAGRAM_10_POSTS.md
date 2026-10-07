@@ -57,4 +57,4 @@ Rechenbeispiel (Annahmen, keine Messwerte): 10.000 Views → 1 % klicken (100) �
 ## Rechtliches
 Keine Heil- oder Diagnoseaussagen. Arzt-Hinweis bei körperlichen Symptomen. Test erfasst sensible Angaben → Datenschutzerklärung + Einwilligung auf novaaxis.org prüfen. Keine erfundenen Erfahrungsberichte oder Zahlen.
 
-> Alle 10 Posts sind ausgeschrieben: siehe `instagram/README.md` und `instagram/posts/`.
+> Alle 10 Posts sind ausgeschrieben: siehe `social/README.md` und `social/posts/`.
