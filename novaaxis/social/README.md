@@ -1,6 +1,6 @@
 # NovaAxis – TikTok + Instagram: alle 10 Posts (kurz, mit Produktlink)
 
-Ziel: Reichweite bei Fremden → Gratis-Test auf **novaaxis.org** → 7-Tage-Programm (9,99 €).
+Ziel: Reichweite bei Fremden → Gratis-Test auf **app.novaaxis.org** → 7-Tage-Programm (9,99 €).
 **Produktlink und wo er klickbar ist: `LINKS.md`** · Strategie: `../INSTAGRAM_10_POSTS.md`
 
 ## Was geändert wurde
@@ -40,5 +40,5 @@ Untertitel/Banner: `../../viral_caption_tool/make_viral_clip.py`
 ## Vor dem Start prüfen
 - **Bio-Link gesetzt und am Handy getestet** (Bio → Seite → Test → Anmeldung). Ohne ihn ist keine Folie klickbar.
 - Aussagen aus dem Erklärvideo stimmen (30 Fragen, max. 10 Min., nur Vorname + E-Mail; Abmeldung mit einem Klick; 9,99 € einmalig, lebenslanger Zugang).
-- Datenschutzerklärung + Einwilligung auf novaaxis.org.
+- Datenschutzerklärung + Einwilligung auf app.novaaxis.org.
 - Nachfass-Mail nach dem Test + Button zum Programm auf der Ergebnisseite.

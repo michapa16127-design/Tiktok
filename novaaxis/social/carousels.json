@@ -1,18 +1,18 @@
 {
   "02_ki_angst_karussell": [
     {"type": "cover", "kicker": "ANGST VOR KI IM JOB?", "title": "Berechtigt – aber im Kopf wird ein Film daraus.", "text": "Trenne Fakt und Film. Dann: ein kleiner Schritt diese Woche."},
-    {"type": "cta", "kicker": "ANGST WANDELN IN VERTRAUEN", "title": "Finde heraus, wovor du wirklich Angst hast.", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "novaaxis.org", "hint": "↑ Link in der Bio"}
+    {"type": "cta", "kicker": "ANGST WANDELN IN VERTRAUEN", "title": "Finde heraus, wovor du wirklich Angst hast.", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
   ],
   "05_drei_schritte_karussell": [
     {"type": "cover", "kicker": "3 SCHRITTE GEGEN ANGST", "title": "Benenne sie. Frag sie. Geh einen kleinen Schritt.", "text": "Was einen Namen hat, verliert an Macht. Jeder kleine Schritt baut Vertrauen auf."},
-    {"type": "cta", "kicker": "SPEICHERN FÜR SPÄTER", "title": "Willst du es tiefer angehen?", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "novaaxis.org", "hint": "↑ Link in der Bio"}
+    {"type": "cta", "kicker": "SPEICHERN FÜR SPÄTER", "title": "Willst du es tiefer angehen?", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
   ],
   "06_drei_fragen_karussell": [
     {"type": "cover", "kicker": "3 FRAGEN AN DEINE ANGST", "title": "Wovor? Wie wahrscheinlich? Nächster Schritt?", "text": "Schreib die Antworten auf. Fünf Minuten reichen."},
-    {"type": "cta", "kicker": "MEHR ÜBER DICH", "title": "Das zeigt dir der kostenlose Test.", "text": "30 Fragen · 10 Min. · kostenlos", "url": "novaaxis.org", "hint": "↑ Link in der Bio"}
+    {"type": "cta", "kicker": "MEHR ÜBER DICH", "title": "Das zeigt dir der kostenlose Test.", "text": "30 Fragen · 10 Min. · kostenlos", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
   ],
   "08_gratis_test_karussell": [
     {"type": "cover", "kicker": "DEIN ANGST-PROFIL IN 10 MINUTEN", "title": "30 Fragen. Nur Vorname + E-Mail. Kostenlos.", "text": "Läuft im Browser, ohne App. Abmelden mit einem Klick."},
-    {"type": "cta", "kicker": "JETZT STARTEN", "title": "Mach den kostenlosen Test.", "text": "Danach bekommst du deine Auswertung.", "url": "novaaxis.org", "hint": "↑ Link in der Bio"}
+    {"type": "cta", "kicker": "JETZT STARTEN", "title": "Mach den kostenlosen Test.", "text": "Danach bekommst du deine Auswertung.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
   ]
 }

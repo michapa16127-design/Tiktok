@@ -1,6 +1,6 @@
 # Post 1 – Reel (15 s) · Reichweite
 **Aufnahme:** du nah an der Kamera, Gesicht groß, 9:16 · **Hook-Banner:** Dein Herz rast – und der Arzt findet nichts?
-**Produktlink:** letzte 4 s Einblendung „novaaxis.org · Link in der Bio“
+**Produktlink:** letzte 4 s Einblendung „app.novaaxis.org · Link in der Bio“
 
 ## Skript
 0–3 s  „Dein Herz rast – und der Arzt findet nichts?“
@@ -9,7 +9,7 @@
 Untertitel: `reel_01.srt`
 
 ## Caption
-👉 Gratis-Test: novaaxis.org (Link in der Bio)
+👉 Gratis-Test: app.novaaxis.org (Link in der Bio)
 Dein Herz rast und der Arzt findet nichts? Dann kann Anspannung dahinterstecken.
 4 Sekunden ein, 6 Sekunden aus – drei Runden. ⚠️ Herzrasen immer ärztlich abklären.
 💾 Speichern · 💬 TEST schreiben = Link per Nachricht
@@ -18,4 +18,4 @@ Dein Herz rast und der Arzt findet nichts? Dann kann Anspannung dahinterstecken.
 #angstüberwinden #herzrasen #stressabbauen #vertrauen #novaaxis
 
 ## Angepinnter Kommentar
-🧭 Kostenloser Angst-Test: novaaxis.org – oder schreib TEST, dann schicke ich dir den Link.
+🧭 Kostenloser Angst-Test: app.novaaxis.org – oder schreib TEST, dann schicke ich dir den Link.

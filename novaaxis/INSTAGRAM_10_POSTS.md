@@ -1,4 +1,4 @@
-# NovaAxis – Instagram: Strategie & die ersten 10 Posts (Ziel: Anmeldungen auf novaaxis.org)
+# NovaAxis – Instagram: Strategie & die ersten 10 Posts (Ziel: Anmeldungen auf app.novaaxis.org)
 
 Grundlage: Reichweiten-Strategie für Profile ohne Follower (Instagram testet Content zuerst an 100–300 Nicht-Followern: Retention > 70 %, Replays, Kommentare in den ersten 30 Min., dann Skalierung). Hier auf NovaAxis angewendet.
 
@@ -14,10 +14,10 @@ Grundlage: Reichweiten-Strategie für Profile ohne Follower (Instagram testet Co
 Reel/Karussell → Profil → Bio-Link → **Gratis-Test (30 Fragen, nur Vorname + E-Mail)** → Auswertung → **7-Tage-Programm 9,99 €** (einmalig, lebenslanger Zugang)
 
 Hebel, damit aus Views Abschlüsse werden:
-1. **URL immer aussprechen UND einblenden** („novaaxis.org“) – im Erklärvideo fehlt sie bisher.
+1. **URL immer aussprechen UND einblenden** („app.novaaxis.org“) – im Erklärvideo fehlt sie bisher.
 2. **Ein Ziel pro Post:** der Gratis-Test. Nicht Programm und Preis in jedem Post.
 3. **Kommentar-Stichwort „TEST“:** wer es schreibt, bekommt den Link per DM (anfangs von Hand). Kommentare in den ersten 30 Min. beantworten.
-4. **Bio:** 1 Satz Nutzen + Link, z. B. „Angst im Körper lösen · Gratis-Test (10 Min.) 👇 novaaxis.org“.
+4. **Bio:** 1 Satz Nutzen + Link, z. B. „Angst im Körper lösen · Gratis-Test (10 Min.) 👇 app.novaaxis.org“.
 5. **E-Mail-Nachfass:** Wer den Test macht, bekommt sofort die Auswertung und 24 h später eine Mail mit Angebot für das 7-Tage-Programm. Ohne Nachfass bricht die meiste Nachfrage weg.
 6. **Test-Auswertung → Angebot:** Auf der Ergebnisseite ein klarer Button zum 7-Tage-Programm.
 
@@ -55,6 +55,6 @@ Rechenbeispiel (Annahmen, keine Messwerte): 10.000 Views → 1 % klicken (100) �
 - „Nicht 499 €. Nicht 199 €. Nur 9,99 €.“
 
 ## Rechtliches
-Keine Heil- oder Diagnoseaussagen. Arzt-Hinweis bei körperlichen Symptomen. Test erfasst sensible Angaben → Datenschutzerklärung + Einwilligung auf novaaxis.org prüfen. Keine erfundenen Erfahrungsberichte oder Zahlen.
+Keine Heil- oder Diagnoseaussagen. Arzt-Hinweis bei körperlichen Symptomen. Test erfasst sensible Angaben → Datenschutzerklärung + Einwilligung auf app.novaaxis.org prüfen. Keine erfundenen Erfahrungsberichte oder Zahlen.
 
 > Alle 10 Posts sind ausgeschrieben: siehe `social/README.md` und `social/posts/`.
