@@ -5,6 +5,7 @@ Nutzung:  python3 make_carousels.py
 Benötigt nur Python 3 und einen Chromium-/Chrome-Browser (Pfad via CHROME_BIN).
 Texte ändern: carousels.json bearbeiten und das Skript erneut ausführen.
 """
+import argparse
 import html
 import json
 import os
@@ -25,7 +26,7 @@ CHROME = os.environ.get("CHROME_BIN") or next(
 
 CSS = """
 *{box-sizing:border-box;margin:0;padding:0}
-html,body{width:1080px;height:1350px}
+html,body{width:1080px;height:__H__px}
 body{font-family:'Liberation Sans','Helvetica Neue',Arial,sans-serif;color:#fff;
  background:linear-gradient(160deg,#070d24 0%,#101c45 58%,#0b2a40 100%);position:relative;overflow:hidden}
 .rings{position:absolute;right:-220px;top:-220px;width:760px;height:760px;opacity:.28}
@@ -64,11 +65,19 @@ def slide_html(s, n, total):
 
 
 def main():
+    global CSS
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--data", default="carousels.json", help="JSON mit den Folien")
+    ap.add_argument("--out", default="posts", help="Ausgabeordner (relativ)")
+    ap.add_argument("--height", type=int, default=1350, help="1350 = Karussell 4:5, 1920 = Reel 9:16")
+    ap.add_argument("--suffix", default="", help="Suffix für den Unterordner, z. B. _9x16")
+    a = ap.parse_args()
     if not CHROME:
         sys.exit("Kein Chrome/Chromium gefunden. Setze CHROME_BIN.")
-    data = json.loads((HERE / "carousels.json").read_text(encoding="utf-8"))
+    CSS = CSS.replace("__H__", str(a.height))
+    data = json.loads((HERE / a.data).read_text(encoding="utf-8"))
     for folder, slides in data.items():
-        out_dir = HERE / "posts" / folder
+        out_dir = HERE / a.out / (folder + a.suffix)
         out_dir.mkdir(parents=True, exist_ok=True)
         for old in out_dir.glob("folie-*.png"):
             old.unlink()
@@ -79,7 +88,7 @@ def main():
                 png = out_dir / f"folie-{i}.png"
                 subprocess.run(
                     [CHROME, "--headless", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
-                     "--window-size=1080,1350", f"--screenshot={png}", f"file://{page}"],
+                     f"--window-size=1080,{a.height}", f"--screenshot={png}", f"file://{page}"],
                     check=True, capture_output=True)
             print("ok", png.relative_to(HERE))
 
