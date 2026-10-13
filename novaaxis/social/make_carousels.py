@@ -40,6 +40,7 @@ p{margin-top:48px;font-size:46px;line-height:1.38;color:#c9d6f2}
 .url{margin-top:56px;align-self:flex-start;background:#e8b04a;color:#0a1230;font-weight:800;
  font-size:70px;padding:22px 44px;border-radius:22px}
 .hint{margin-top:30px;font-size:44px;color:#e8b04a;font-weight:700;letter-spacing:.04em}
+.lk{color:#e8b04a;letter-spacing:.08em}
 .foot{position:absolute;left:84px;right:84px;bottom:70px;display:flex;justify-content:space-between;
  font-size:30px;letter-spacing:.2em;color:#7f93c4;font-weight:700}
 """
@@ -61,7 +62,7 @@ def slide_html(s, n, total):
         body += f'<div class="hint">{e(s["hint"])}</div>'
     return (f'<!doctype html><html lang="de"><head><meta charset="utf-8"><style>{CSS}</style></head>'
             f'<body class="{cls}">{RINGS}<div class="wrap {cls}">{body}</div>'
-            f'<div class="foot"><span>NOVAAXIS</span><span>{n}/{total}</span></div></body></html>')
+            f'<div class="foot"><span class="lk">app.novaaxis.org</span><span>{n}/{total}</span></div></body></html>')
 
 
 def main():

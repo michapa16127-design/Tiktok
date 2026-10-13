@@ -27,3 +27,6 @@ Bei Login, Captcha oder Zwei-Faktor-Abfrage hör auf und sag mir Bescheid.
 
 Texte, Hashtags und Zeitplan: `SPIELPLAN_HEUTE.md`. Link-Regeln: `LINKS.md`.
 Weitere Beiträge aus dem 10-Tage-Plan: `README.md` (Ordner `posts/`), später nach demselben Muster.
+
+## Woche 2 (17.–23.10.)
+Weitere 7 Posts mit je 2 Folien und Musik: `WOCHE2_PLAN.md` (Texte, Zeiten, Dateien). Gleicher Ablauf: pro Tag TikTok + Instagram 18:30, Facebook + LinkedIn 19:00, nur planen, vor dem Bestätigen Konto/Uhrzeit/Caption zeigen.
