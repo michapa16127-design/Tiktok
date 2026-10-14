@@ -24,4 +24,4 @@ python3 make_viral_clip.py --video video.mp4 \
 ```
 Not: Metin tedavi vaadi içermez. Yoğun kaygıda profesyonel destek önerilir.
 
-**Wichtig:** app.novaaxis.org ist auf Deutsch. Türkische Zuschauer landen auf einer deutschen Seite – nur sinnvoll, wenn die Zielgruppe Deutsch versteht oder es eine türkische Version gibt.
+**Wichtig:** Prüfen, ob der Link auf die türkische Sprachversion führt (das Programm gibt es laut Nutzer in 6 Sprachen). Siehe `social/MEHRSPRACHIG.md`.

@@ -19,7 +19,7 @@ Nische (Hypothese): Anspannung/Angst bei Job-/KI-Stress im Körper lösen, Beruf
 3. **5 Hashtags**, ein Hashtag `#novaaxis`.
 4. Facebook/LinkedIn: Link direkt in den Text (dort klickbar). TikTok/Instagram: nur Bio-Link klickbar.
 5. Keine Heilversprechen, keine erfundenen Erfahrungsberichte; bei Herzrasen/Schmerzen Arzt-Hinweis.
-6. Türkische Fassung nur auf Wunsch (die Seite ist deutsch).
+6. **Sprachen:** Laut Nutzer gibt es das Programm in **6 Sprachen** (welche, und wie die Sprachversion gewählt wird, ist noch zu klären → siehe `novaaxis/social/MEHRSPRACHIG.md`). Frühere Annahme „die Seite ist deutsch“ war ungeprüft und ist zu verwerfen. Pro Sprache ein eigenes Konto und ein eigener Bio-Link zur passenden Sprachversion.
 
 ## Wenn der Nutzer eine Idee sagt
 1. `python3 novaaxis/social/new_post.py ...` (siehe `.claude/skills/novaaxis-post/SKILL.md`) → Folien, Video, Caption.

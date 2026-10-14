@@ -57,6 +57,6 @@ Hashtags: #kişiselgelişim #mentalsağlık #özgüven #novaaxis
 **Musik:** `music/ambient_a.m4a (weitere: ambient_b, ambient_c)` – ruhiger Ambient-Klang, von mir selbst erzeugt, frei von Rechten Dritter. Für Instagram/TikTok-Fotokarussells kannst du stattdessen die App-Musik wählen (bei Business-Konten nur kommerziell lizenzierte Titel).
 
 ## Wichtig
-- `app.novaaxis.org` ist deutschsprachig. Türkische Zuschauer landen auf einer deutschen Seite.
+- Prüfen: Führt der Link in der **türkischen** Fassung auf die türkische Sprachversion der Seite? (Das Programm gibt es laut Nutzer in 6 Sprachen; siehe `MEHRSPRACHIG.md`.)
 - Keine Heilversprechen; Hinweise sind in den Captions enthalten.
 - Türkische Texte bitte von einer Person prüfen lassen, die Türkisch spricht.
