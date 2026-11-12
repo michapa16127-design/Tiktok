@@ -1,6 +1,6 @@
 # NovaAxis – Projektgedächtnis (damit keine Sitzung bei null anfängt)
 
-Stand: 14.10.2026. Lies diese Datei zuerst. Sprache mit dem Nutzer: Deutsch, „du“.
+Stand: 12.11.2026 (Verbindungen neu geprüft). Lies diese Datei zuerst. Sprache mit dem Nutzer: Deutsch, „du“.
 
 ## Produkt
 NovaAxis „Angst wandeln in Vertrauen“. Produktlink: **https://app.novaaxis.org/**
@@ -23,17 +23,18 @@ Nische (Hypothese): Anspannung/Angst bei Job-/KI-Stress im Körper lösen, Beruf
 
 ## Wenn der Nutzer eine Idee sagt
 1. `python3 novaaxis/social/new_post.py ...` (siehe `.claude/skills/novaaxis-post/SKILL.md`) → Folien, Video, Caption.
-2. Posten/Planen über den verbundenen Planungs-Konnektor (Metricool: `createScheduledPost`), wenn verbunden. Sonst: Auftrag für den Chrome-Chat in `novaaxis/social/AUFTRAG_BROWSER_POSTEN.md`.
+2. Posten/Planen über vidIQ-Social-Posting (siehe Verbindungen) für verbundene Konten; LinkedIn und nicht verbundene Netzwerke über Chrome-Chat/Metricool/Zapier. Sonst: Auftrag für den Chrome-Chat in `novaaxis/social/AUFTRAG_BROWSER_POSTEN.md`.
 3. Nie behaupten, etwas sei gepostet, wenn nur Dateien erstellt wurden. Immer sagen, was wirklich passiert ist.
 
-## Verbindungen (Stand 14.10.2026)
+## Verbindungen (Stand 12.11.2026)
 | Dienst | Status |
 |---|---|
-| vidIQ | verbunden (YouTube-Kanal verbunden, Instagram NICHT; Änderungen an Videos brauchen Google-MFA) |
+| **vidIQ – Social-Posting** (`vidiq_social_account_list`, `vidiq_social_post_draft_create`, `vidiq_social_post_publish`, `vidiq_social_post_status`, `vidiq_social_post_list`) | **Neu.** Verbunden: nur **YouTube** (@novaaxiswandel, canPublish). **TikTok, Instagram, Facebook-Seiten** per `vidiq_social_account_connect` (Nutzer meldet sich per Link an). **LinkedIn nicht unterstützt.** Planen mit `publishAt` pro Ziel; geplante Beiträge lassen sich noch nicht ändern/abbrechen. Medien über `vidiq_video_upload` (öffentlicher HTTPS-MP4-Link, ≤200 MB; Repo ist öffentlich → raw.githubusercontent.com) und `vidiq_upload_image`. Vor `publish` immer Entwurf zeigen und Zustimmung holen; TikTok-Privatsphäre/Kommentare/Musik entscheidet der Nutzer. |
+| Higgsfield | TikTok-Konten: keine verbunden (`tiktok_accounts` leer) |
 | Google Drive, Gmail | verbunden |
-| TikTok for Business | verbunden, aber **kein Werbekonto** → nur Werbung, kein Posten |
-| **Metricool** (TikTok, Instagram, Facebook, LinkedIn, YouTube planen) | **NICHT verbunden – Haupt-To-do** |
-| Claude in Chrome (Desktop-App) | nur in Desktop-Chat, nicht in Cloud-Sitzungen |
+| TikTok for Business | **kein Werbekonto** → nur Werbung |
+| Metricool / Zapier | nicht verbunden (Alternativen, falls LinkedIn nötig) |
+| Claude in Chrome (Desktop-App) | nur in Desktop-Chat |
 
 ## Bekannte Grenzen (nicht noch einmal ausprobieren)
 - Cloud-Sitzung hat kein Chrome. Netzwerk blockiert tiktok.com, drive.google.com, app.novaaxis.org.
