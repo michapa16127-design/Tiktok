@@ -21,6 +21,8 @@ Nische (Hypothese): Anspannung/Angst bei Job-/KI-Stress im Körper lösen, Beruf
 5. Keine Heilversprechen, keine erfundenen Erfahrungsberichte; bei Herzrasen/Schmerzen Arzt-Hinweis.
 6. **Sprachen:** Laut Nutzer gibt es das Programm in **6 Sprachen** (welche, und wie die Sprachversion gewählt wird, ist noch zu klären → siehe `novaaxis/social/MEHRSPRACHIG.md`). Frühere Annahme „die Seite ist deutsch“ war ungeprüft und ist zu verwerfen. Pro Sprache ein eigenes Konto und ein eigener Bio-Link zur passenden Sprachversion.
 
+7. **Zwei Zielseiten:** Angst-Posts → Angst-Seite `https://app.novaaxis.org/`; Hypnose-Posts → **Hypnose-Seite** (URL vom Nutzer erfragen/eintragen: ______). Bio-Link = Übersichtsseite mit zwei Buttons; Fußzeile der Hypnose-Folien zeigt den Hypnose-Hinweis, nicht den Angst-Link (`new_post.py --footer --url --link`). Siehe `novaaxis/social/NEUE_POSTS_HYPNOSE_ANGST.md`.
+
 ## Wenn der Nutzer eine Idee sagt
 1. `python3 novaaxis/social/new_post.py ...` (siehe `.claude/skills/novaaxis-post/SKILL.md`) → Folien, Video, Caption.
 2. Posten/Planen über vidIQ-Social-Posting (siehe Verbindungen) für verbundene Konten; LinkedIn und nicht verbundene Netzwerke über Chrome-Chat/Metricool/Zapier. Sonst: Auftrag für den Chrome-Chat in `novaaxis/social/AUFTRAG_BROWSER_POSTEN.md`.

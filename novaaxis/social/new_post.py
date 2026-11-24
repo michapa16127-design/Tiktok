@@ -26,14 +26,17 @@ def main():
     a.add_argument("--cta-title", required=True)
     a.add_argument("--cta-text", default="Kostenloser Test · 30 Fragen · 10 Min.")
     a.add_argument("--hint", default="↑ Link in der Bio")
+    a.add_argument("--url", default="app.novaaxis.org", help="Text im Link-Feld der Folie")
+    a.add_argument("--link", default="https://app.novaaxis.org/", help="klickbarer Link für Facebook/LinkedIn/YouTube")
+    a.add_argument("--footer", default="app.novaaxis.org", help="Fußzeile jeder Folie")
     a.add_argument("--caption", required=True, help="ein bis zwei Sätze")
     a.add_argument("--hashtags", required=True)
     a.add_argument("--music", type=int, default=0, help="0=a, 1=b, 2=c")
     a = a.parse_args()
     slides = [
-        {"type": "cover", "kicker": a.kicker, "title": a.title, "text": a.text},
+        {"type": "cover", "kicker": a.kicker, "title": a.title, "text": a.text, "footer": a.footer},
         {"type": "cta", "kicker": a.cta_kicker, "title": a.cta_title, "text": a.cta_text,
-         "url": "app.novaaxis.org", "hint": a.hint},
+         "url": a.url, "hint": a.hint, "footer": a.footer},
     ]
     with tempfile.TemporaryDirectory() as tmp:
         data = Path(tmp) / "one.json"
@@ -54,10 +57,10 @@ def main():
     tags4 = " ".join(a.hashtags.split()[:4])
     (HERE / "posts" / a.slug / "POST.md").write_text(
         f"# {a.slug}\n\nDateien: `posts/{a.slug}/folie-1.png`, `folie-2.png` · Video: `posts/{a.slug}_9x16/zwei_folien_musik.mp4`\n\n"
-        f"## TikTok / Instagram\n```\n👉 Gratis-Test: app.novaaxis.org (Link in der Bio)\n{a.caption}\n"
-        f"💾 Speichern · 💬 TEST schreiben = Link per Nachricht\n🔗 app.novaaxis.org\n{a.hashtags}\n```\n\n"
-        f"## Facebook / LinkedIn (Link klickbar)\n```\n{a.caption} Kostenloser Test (30 Fragen, ca. 10 Minuten):\n"
-        f"👉 https://app.novaaxis.org/\n{tags4}\n```\n", encoding="utf-8")
+        f"## TikTok / Instagram\n```\n👉 {a.url} (Link in der Bio)\n{a.caption}\n"
+        f"💾 Speichern · 💬 Schreib LINK = ich schicke ihn dir per Nachricht\n🔗 {a.url}\n{a.hashtags}\n```\n\n"
+        f"## Facebook / LinkedIn (Link klickbar)\n```\n{a.caption}\n👉 {a.link}\n{tags4}\n```\n\n"
+        f"## YouTube Shorts\nTitel: {a.title[:85]} #Shorts\n```\n{a.caption}\n👉 {a.link}\n{a.hashtags}\n```\n", encoding="utf-8")
     print("fertig:", HERE / "posts" / a.slug)
 
 

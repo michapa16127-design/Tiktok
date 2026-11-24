@@ -62,7 +62,7 @@ def slide_html(s, n, total):
         body += f'<div class="hint">{e(s["hint"])}</div>'
     return (f'<!doctype html><html lang="de"><head><meta charset="utf-8"><style>{CSS}</style></head>'
             f'<body class="{cls}">{RINGS}<div class="wrap {cls}">{body}</div>'
-            f'<div class="foot"><span class="lk">app.novaaxis.org</span><span>{n}/{total}</span></div></body></html>')
+            f'<div class="foot"><span class="lk">{e(s.get("footer", "app.novaaxis.org"))}</span><span>{n}/{total}</span></div></body></html>')
 
 
 def main():
