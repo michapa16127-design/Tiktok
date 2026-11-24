@@ -3,7 +3,7 @@
 | Post | Thema | Ziel-Seite | Ordner |
 |---|---|---|---|
 | 18 | Gedankenkarussell / Angst | **Angst-Seite** `https://app.novaaxis.org/` | `posts/18_gedankenkarussell` (+ `_9x16` mit Musik-Video) |
-| 19 | Hypnose | **Hypnose-Seite** `{HYPNOSE_URL}` ← noch eintragen | `posts/19_hypnose` (+ `_9x16` mit Musik-Video) |
+| 19 | Hypnose | **Hypnose-Seite** `https://hypnose.novaaxis.org` | `posts/19_hypnose` (+ `_9x16` mit Musik-Video) |
 
 Jeder Post hat: 2 Folien, 15-s-Video mit Musik, Captions für TikTok/Instagram, Facebook/LinkedIn (klickbarer Link), YouTube Shorts, Hashtags (`POST.md`).
 
@@ -14,7 +14,7 @@ TikTok und Instagram erlauben **einen** Link in der Bio. Damit Hypnose-Posts auf
 - Die Fußzeile der Hypnose-Folien zeigt **nicht** den Angst-Link (damit niemand falsch landet).
 
 ## Noch offen
-1. **Hypnose-Adresse** (vollständiger Link). Danach: in `posts/19_hypnose/POST.md` `{HYPNOSE_URL}` ersetzen (Folien brauchen keine Änderung).
+1. ~~Hypnose-Adresse~~ erledigt: https://hypnose.novaaxis.org (Folien und Texte eingetragen). Am Handy prüfen, dass die Seite lädt.
 2. Gibt es die Hypnose-Angebote schon? (Im Erklärvideo wurden Hypnosesitzungen als „geplant“ genannt.) Was genau bekommt man dort, und was kostet es? Dann schreibe ich konkrete Texte statt allgemeiner Aussagen.
 3. Bio-Link-Seite mit zwei Buttons anlegen (z. B. kostenloser Linktree/Beacons oder eigene Seite).
 
