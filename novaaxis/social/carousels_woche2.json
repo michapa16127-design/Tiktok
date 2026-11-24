@@ -1,0 +1,30 @@
+{
+  "11_sonntag_zwei_folien": [
+    {"type": "cover", "kicker": "SONNTAGABEND, 20 UHR", "title": "Dein Körper bereitet sich schon auf Montag vor.", "text": "Anspannung vor der Arbeitswoche ist ein Signal, kein Charakterfehler. Atme 4 Sekunden ein, 6 Sekunden aus."},
+    {"type": "cta", "kicker": "ANGST WANDELN IN VERTRAUEN", "title": "Finde heraus, was dich wirklich anspannt.", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
+  ],
+  "12_ki_job_zwei_folien": [
+    {"type": "cover", "kicker": "ANGST, DASS KI DEINEN JOB ÜBERNIMMT?", "title": "Mach aus der Angst einen Plan.", "text": "Ein Tool, 20 Minuten, diese Woche. Kleine Schritte nehmen dem großen Film die Macht."},
+    {"type": "cta", "kicker": "DAMIT DIE ANGST NICHT ALLEIN ENTSCHEIDET", "title": "Starte mit dem kostenlosen Angst-Test.", "text": "30 Fragen · 10 Min. · nur Vorname + E-Mail", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
+  ],
+  "13_herzrasen_zwei_folien": [
+    {"type": "cover", "kicker": "HERZRASEN VOR DEM GESPRÄCH?", "title": "Atme länger aus, als du ein.", "text": "4 Sekunden ein, 6 Sekunden aus, drei Runden. Herzrasen immer ärztlich abklären."},
+    {"type": "cta", "kicker": "MEHR ÜBUNGEN", "title": "Dein Körper kann sich beruhigen lernen.", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
+  ],
+  "14_nachts_zwei_folien": [
+    {"type": "cover", "kicker": "GRÜBELN UM 3 UHR NACHTS?", "title": "Schreib es auf, dann darf es warten.", "text": "Zettel neben das Bett. Die Sorge in einem Satz notieren. Morgen früh schaust du darauf."},
+    {"type": "cta", "kicker": "RUHIGER SCHLAFEN, KLARER DENKEN", "title": "Verstehe, was dich wach hält.", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
+  ],
+  "15_nacken_zwei_folien": [
+    {"type": "cover", "kicker": "VERSPANNTER NACKEN BEI STRESS?", "title": "Anspannung sitzt oft in Schultern und Nacken.", "text": "Schultern bewusst sinken lassen, einmal tief ausatmen. Bei Schmerzen ärztlich abklären."},
+    {"type": "cta", "kicker": "KÖRPER UND ANGST HÄNGEN ZUSAMMEN", "title": "Finde heraus, was dich anspannt.", "text": "Kostenloser Test · 30 Fragen · 10 Min.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
+  ],
+  "16_test_zwei_folien": [
+    {"type": "cover", "kicker": "DEIN ANGST-PROFIL", "title": "30 Fragen. 10 Minuten. Kostenlos.", "text": "Nur Vorname und E-Mail. Läuft im Browser, ohne App. Danach bekommst du deine Auswertung."},
+    {"type": "cta", "kicker": "JETZT STARTEN", "title": "Mach den kostenlosen Test.", "text": "Abmelden jederzeit mit einem Klick.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
+  ],
+  "17_angebot_zwei_folien": [
+    {"type": "cover", "kicker": "7 TAGE · 1 ÜBUNG PRO TAG", "title": "Nicht 499 €. Nur 9,99 € – einmalig.", "text": "Lebenslanger Zugang und Online-Tagebuch im Browser. Starte erst mit dem kostenlosen Test."},
+    {"type": "cta", "kicker": "ERST TESTEN, DANN ENTSCHEIDEN", "title": "Dein Einstieg ist kostenlos.", "text": "Test und Auswertung kosten nichts.", "url": "app.novaaxis.org", "hint": "↑ Link in der Bio"}
+  ]
+}
